@@ -1,3 +1,5 @@
+# Preview
+[Preview using github pages](https://sigma-coder777.github.io/react-portfolio-page/)
 # Why
 I made this portion of page while learning frontend dev thought it is going to be a great opportunity to learn different skills.
 # Things I Learnt
