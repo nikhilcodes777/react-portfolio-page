@@ -27,14 +27,14 @@ export const mySkills = [
 
   {
     id: 'skill-4',
-    imgUrl:card4,
+    imgUrl: card4,
     title: 'UI/UX Designing',
     tools: ['Figma', 'Inkscape', 'Gimp', 'Krita']
   },
 
   {
     id: 'skill-5',
-    imgUrl:card5,
+    imgUrl: card5,
     title: 'Media Production',
     tools: ['Gimp', 'Davinci Resolve', 'Kdenlive', 'Blender']
   },
